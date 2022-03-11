@@ -1,3 +1,20 @@
 body{
     background-color: #E5E5E5;
 }
+.alrt1{
+    color: #FF6652;
+    font-family: Metropolis;
+font-size: 20px;
+font-style: normal;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0em;
+text-align: left;
+
+   
+}
+/* searchbar1css */
+.btns1{
+    background-color:  #9C4DF4;
+    ;
+}
