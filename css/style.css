@@ -33,3 +33,21 @@ text-align: left;
    
 
 }
+
+.btn3highschool{
+    background: #FF6652;
+
+}
+.btn1:hover,.btn2:hover{
+    background-color: #FF6652;
+}
+.cardbtn{
+    color:#9C4DF4;
+}
+.cardbtn:hover{
+    background-color: #9C4DF4;
+    color: #ffffff;
+}
+
+
+
