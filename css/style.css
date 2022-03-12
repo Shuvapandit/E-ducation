@@ -13,10 +13,20 @@ text-align: left;
 
    
 }
+.firsth1{
+    font-size: 63px;
+    font-weight: 700,bold;
+    font-family: Metropolis;
+}
 /* searchbar1css */
 .btns1{
     background-color:  #9C4DF4;
     
+}
+.cartAcc{
+    
+   margin-left: 400px;
+
 }
 .visitbtn{
     background-color:  #9C4DF4;
